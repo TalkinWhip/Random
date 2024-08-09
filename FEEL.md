@@ -108,7 +108,9 @@ today() //returns date
 
 ## Hints
 * Indexing starts at 1
-* Dynamic keys in a context can be achieved by using put. 
+* Dynamic keys in a context can be achieved by using put.
+* When writing complex functions. Pack atomic functions in a context and reference the result of the last one.
+
 
 ## Exercise
 
