@@ -112,7 +112,7 @@ today() //returns date
 * When writing complex functions. Pack atomic functions in a context and reference the result of the last one.
 * ifs always need an else
 * some functions consists of 2 or 3 words
-* 
+* type missmatch results in a NULL
 
 
 ## Exercise
