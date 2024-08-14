@@ -110,6 +110,9 @@ today() //returns date
 * Indexing starts at 1
 * Dynamic keys in a context can be achieved by using put.
 * When writing complex functions. Pack atomic functions in a context and reference the result of the last one.
+* ifs always need an else
+* some functions consists of 2 or 3 words
+* 
 
 
 ## Exercise
