@@ -6,7 +6,7 @@
 ```java
 { 
     q: location,
-    appid: "97d11ad6685bf5d608de3cc4fb00acf6",
+    appid: "d72dde96400c133cfb0128f18aaf5bf2",
     units: "metric",
     lang: language
 }
